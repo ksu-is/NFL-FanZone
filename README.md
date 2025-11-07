@@ -1,7 +1,7 @@
 # NFL-FanZone
 A Python-based NFL data analytics and fan insights dashboard project for KSU IS course.
 ## Project Overview
-NFL StatSim allows users to:
+NFL Fanzone allows users to:
 - Load NFL team statistics from CSV files
 - Compare teams using rating formulas
 - Run simulations influenced by real performance data
@@ -29,8 +29,8 @@ nfl-statsim/
 
 ## Installation
 ```
-git clone https://github.com/ksu-is/nfl-statsim.git
-cd nfl-statsim
+git clone https://github.com/ksu-is/nfl-fanzone.git
+cd nfl-fanzone
 pip install -r requirements.txt
 ```
 
