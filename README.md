@@ -52,9 +52,6 @@ python main.py
 - [ ] **Test the repository** — attempt to run it, install requirements, troubleshoot
 - [ ] **Document issues found** (missing files, errors, unclear code)
 - [ ] **Write setup notes** explaining how to run the cloned repo successfully
-- [ ] Create project team inside `ksu-is` organization
-- [ ] Create public repository for NFL StatSim
-- [ ] Add MIT open-source license
 - [ ] Create initial folder structure for the project
 - [ ] Outline simulation logic in Markdown
 - [ ] Outline data model including required team stats
