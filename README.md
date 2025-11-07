@@ -17,7 +17,7 @@ NFL Fanzone allows users to:
 
 ## Project Structure
 ```
-nfl-statsim/
+nfl-fanzone/
 ├── data/
 ├── sim/
 ├── analysis/
