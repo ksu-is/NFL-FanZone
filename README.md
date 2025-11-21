@@ -41,18 +41,3 @@ python main.py
 ```
 
 
-## Sprint 1 Roadmap
-- [ ] Learn Markdown and review example READMEs
-- [ ] Write README.md using Markdown formatting
-- [ ] Create ROADMAP.md with detailed checkbox tasks
-- [ ] **Search for 3 related NFL statistics or simulation repositories** on GitHub
-- [ ] **Select 1 repository to clone** based on usefulness
-- [ ] **Clone the selected repository** into the team organization via GitHub Desktop
-- [ ] **Evaluate the cloned repository** (folder structure, data quality, dependencies)
-- [ ] **Test the repository** — attempt to run it, install requirements, troubleshoot
-- [ ] **Document issues found** (missing files, errors, unclear code)
-- [ ] **Write setup notes** explaining how to run the cloned repo successfully
-- [ ] Create initial folder structure for the project
-- [ ] Outline simulation logic in Markdown
-- [ ] Outline data model including required team stats
-
