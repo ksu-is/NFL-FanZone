@@ -16,7 +16,7 @@ NFL Fanzone allows users to:
 
 ## Project Slide
 Click here to view the project introduction slide:  
-👉 [NFL FanZone Project Slide](./NFL_FanZone_Full_Design.pptx)
+👉 [NFL FanZone Project Slide](./NFL_FanZone (1).pptx)
 
 
 ## Project Structure
