@@ -15,8 +15,9 @@ NFL Fanzone allows users to:
 - CLI interface
 
 ## Project Slide
-Click here to view the project introduction slide:  
-👉 [NFL FanZone Slide](./NFL_FanZone%20(1).pptx)
+Click below to download the project introduction slide:
+
+👉 [NFL FanZone Intro Slide](https://raw.githubusercontent.com/ksu-is/NFL-FanZone/main/NFL_FanZone%20(1).pptx)
 
 
 ## Project Structure
